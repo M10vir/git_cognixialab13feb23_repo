@@ -1,5 +1,2 @@
 print("Hello world!")
-print("Another commit")
-print("Another commit for dev1")
-print("added from master")
-print("Anothor commit from dev1")
+print("Hello world! - 1st diff")
