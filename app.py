@@ -1,3 +1,5 @@
 print("Hello world!")
 print("Hello world! - 1st diff")
 print("Hello world! - added from branch dev2")
+print("Hello world! - added from branch master")
+print("Hello world! - Another added from branch dev2")
