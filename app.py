@@ -1,3 +1,5 @@
 print("Hello world!")
 print("Hello Qatar!, 1st added")
 print("Hello Qatar!, 2nd added from branch dev01")
+print("Hello Qatar!, 3rd added from branch master")
+print("Hello Qatar!, 4th added from branch dev01")
